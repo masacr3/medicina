@@ -1,0 +1,30 @@
+.name, .nameOff{
+    width: 45%;
+}
+
+.cantidad, .cantidadOff{
+    width: 40%;
+    text-align: initial;
+}
+
+.fechaMedico{
+    text-align: end;
+}
+
+.fecha, .fechaOff{
+    width: 15%;
+    text-align: end;
+}
+
+.name, .cantidad, .fecha{
+    margin-bottom: 4px;
+}
+
+
+
+.nameOff, .cantidadOff, .fechaOff{
+    font-weight: 400;
+    color: #856187;
+    margin-bottom: 10px;
+
+}
